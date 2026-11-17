@@ -215,9 +215,9 @@ lib/
 <div align="center">
 <table>
 <tr>
-<td align="center" width="50%" valign="top">
+<td align="center" valign="top" width="50%">
 <br>
-<b>علا نصرالله<br><sub>Ola Nasrallah</sub></b>
+<b>Ola Nasrallah</b>
 <br>
 <sub>مطوّرة Flutter</sub>
 <br><br>
@@ -225,17 +225,43 @@ lib/
 <a href="https://www.linkedin.com/in/ola-nasrallah/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <br><br>
 </td>
-<td align="center" width="50%" valign="top">
+<td align="center" valign="top" width="50%">
 <br>
-<b>أحمد أكرم أبو العجين<br><sub>Ahmad Akram Abu Elajeen</sub></b>
+<b>Ahmad Akram Abu Elajeen</b>
 <br>
-<sub>أمن سيبراني وشبكات · مطوّر Flutter</sub>
+<sub>متابعة المشروع والأمن السيبراني</sub>
 <br>
 <sub>📍 غزة، فلسطين</sub>
 <br><br>
 <a href="https://github.com/ahmad-ajeen"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/ahmad-akram-abu-elajeen-07a4aa24b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:aa.aajeen@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<br><br>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%">
+<br>
+<b>Mahmoud Abu Jalambo</b>
+<br>
+<sub>عضو الفريق</sub>
+<br><br>
+</td>
+<td align="center" valign="top" width="33%">
+<br>
+<b>Maha Abu Khater</b>
+<br>
+<sub>عضوة الفريق</sub>
+<br><br>
+</td>
+<td align="center" valign="top" width="33%">
+<br>
+<b>Israa Abu Amra</b>
+<br>
+<sub>عضوة الفريق</sub>
 <br><br>
 </td>
 </tr>

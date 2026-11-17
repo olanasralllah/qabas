@@ -218,7 +218,7 @@ If you are interested in a demo, a collaboration or partnership, or the technica
 <div align="center">
 <table>
 <tr>
-<td align="center" width="50%" valign="top">
+<td align="center" valign="top" width="50%">
 <br>
 <b>Ola Nasrallah</b>
 <br>
@@ -228,17 +228,43 @@ If you are interested in a demo, a collaboration or partnership, or the technica
 <a href="https://www.linkedin.com/in/ola-nasrallah/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <br><br>
 </td>
-<td align="center" width="50%" valign="top">
+<td align="center" valign="top" width="50%">
 <br>
 <b>Ahmad Akram Abu Elajeen</b>
 <br>
-<sub>Cybersecurity & Networking · Flutter Developer</sub>
+<sub>Project Follow-up & Cybersecurity</sub>
 <br>
 <sub>📍 Gaza, Palestine</sub>
 <br><br>
 <a href="https://github.com/ahmad-ajeen"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/ahmad-akram-abu-elajeen-07a4aa24b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:aa.aajeen@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<br><br>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%">
+<br>
+<b>Mahmoud Abu Jalambo</b>
+<br>
+<sub>Team Member</sub>
+<br><br>
+</td>
+<td align="center" valign="top" width="33%">
+<br>
+<b>Maha Abu Khater</b>
+<br>
+<sub>Team Member</sub>
+<br><br>
+</td>
+<td align="center" valign="top" width="33%">
+<br>
+<b>Israa Abu Amra</b>
+<br>
+<sub>Team Member</sub>
 <br><br>
 </td>
 </tr>
